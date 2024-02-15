@@ -16,12 +16,21 @@ for item in cleaned_data:
   if "Column_3" in item:
     remapped_item["Order Line"] = item["Column_3"]
   if "Column_10" in item:
-    remapped_item["Quantity"] = item["Column_10"]
-  if "Column_10" in item:
+    try:
+      # Attempt to convert to float, handle potential exceptions
+      quantity = float(item["Column_10"])
+      item["Quantity"] = quantity
+      remapped_item["Quantity"] = quantity
+    except ValueError:
+      # Quantity could not be converted, handle error or discard item
+      pass
+    # remapped_item["Quantity"] = item["Column_10"]
+  if "Column_17" in item:
     remapped_item["Date"] = item["Column_17"]
   remapped_data.append(remapped_item)
 
 # Remove the first three objects
+
 remapped_data = remapped_data[3:]
 
 # Print or write the remapped data to a new JSON file

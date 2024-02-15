@@ -2,553 +2,553 @@
     {
         "Order": "2000687002",
         "Order Line": "03600-0003",
-        "Quantity": "840",
+        "Quantity": 840.0,
         "Date": "31-10-2023"
     },
     {
         "Order": "2000740497",
         "Order Line": "00200-0004",
-        "Quantity": "550",
+        "Quantity": 550.0,
         "Date": "31-10-2023"
     },
     {
         "Order": "2000852336",
         "Order Line": "00400-0001",
-        "Quantity": "350",
+        "Quantity": 350.0,
         "Date": "31-10-2023"
     },
     {
         "Order": "2001001807",
         "Order Line": "00600-0006",
-        "Quantity": "1.000",
+        "Quantity": 1.0,
         "Date": "31-10-2023"
     },
     {
         "Order": "2001009679",
         "Order Line": "00100-0001",
-        "Quantity": "33.000",
+        "Quantity": 33.0,
         "Date": "15-09-2023"
     },
     {
         "Order": "2001014190",
         "Order Line": "00600-0002",
-        "Quantity": "2.200",
+        "Quantity": 2.2,
         "Date": "31-10-2023"
     },
     {
         "Order": "2001014190",
         "Order Line": "00700-0005",
-        "Quantity": "3.120",
+        "Quantity": 3.12,
         "Date": "31-10-2023"
     },
     {
         "Order": "2001014190",
         "Order Line": "01300-0002",
-        "Quantity": "1.000",
+        "Quantity": 1.0,
         "Date": "31-10-2023"
     },
     {
         "Order": "2001014190",
         "Order Line": "01300-0003",
-        "Quantity": "1.000",
+        "Quantity": 1.0,
         "Date": "31-10-2023"
     },
     {
         "Order": "2001014190",
         "Order Line": "01300-0004",
-        "Quantity": "500",
+        "Quantity": 500.0,
         "Date": "31-10-2023"
     },
     {
         "Order": "2001014190",
         "Order Line": "01600-0002",
-        "Quantity": "4.000",
+        "Quantity": 4.0,
         "Date": "31-10-2023"
     },
     {
         "Order": "2001014190",
         "Order Line": "01600-0003",
-        "Quantity": "4.000",
+        "Quantity": 4.0,
         "Date": "31-10-2023"
     },
     {
         "Order": "2001014190",
         "Order Line": "01600-0004",
-        "Quantity": "3.800",
+        "Quantity": 3.8,
         "Date": "31-10-2023"
     },
     {
         "Order": "2001014190",
         "Order Line": "01900-0002",
-        "Quantity": "2.800",
+        "Quantity": 2.8,
         "Date": "31-10-2023"
     },
     {
         "Order": "2001014208",
         "Order Line": "00400-0005",
-        "Quantity": "190",
+        "Quantity": 190.0,
         "Date": "31-10-2023"
     },
     {
         "Order": "2001014208",
         "Order Line": "01700-0005",
-        "Quantity": "2.000",
+        "Quantity": 2.0,
         "Date": "31-10-2023"
     },
     {
         "Order": "2001044034",
         "Order Line": "01700-0003",
-        "Quantity": "279",
+        "Quantity": 279.0,
         "Date": "30-11-2023"
     },
     {
         "Order": "2001056490",
         "Order Line": "00100-0002",
-        "Quantity": "1.200",
+        "Quantity": 1.2,
         "Date": "16-11-2023"
     },
     {
         "Order": "2001056490",
         "Order Line": "00200-0003",
-        "Quantity": "2.200",
+        "Quantity": 2.2,
         "Date": "30-11-2023"
     },
     {
         "Order": "2001056490",
         "Order Line": "00600-0004",
-        "Quantity": "1.811",
+        "Quantity": 1.811,
         "Date": "30-11-2023"
     },
     {
         "Order": "2001056494",
         "Order Line": "00200-0001",
-        "Quantity": "1.650",
+        "Quantity": 1.65,
         "Date": "17-11-2023"
     },
     {
         "Order": "2001056494",
         "Order Line": "00600-0001",
-        "Quantity": "850",
+        "Quantity": 850.0,
         "Date": "17-11-2023"
     },
     {
         "Order": "2001056494",
         "Order Line": "01500-0001",
-        "Quantity": "1.300",
+        "Quantity": 1.3,
         "Date": "24-11-2023"
     },
     {
         "Order": "2001072472",
         "Order Line": "00100-0001",
-        "Quantity": "450",
+        "Quantity": 450.0,
         "Date": "14-12-2023"
     },
     {
         "Order": "2001072472",
         "Order Line": "00200-0001",
-        "Quantity": "450",
+        "Quantity": 450.0,
         "Date": "14-12-2023"
     },
     {
         "Order": "2001072472",
         "Order Line": "00300-0001",
-        "Quantity": "800",
+        "Quantity": 800.0,
         "Date": "14-12-2023"
     },
     {
         "Order": "2001076156",
         "Order Line": "00100-0001",
-        "Quantity": "5.500",
+        "Quantity": 5.5,
         "Date": "02-02-2024"
     },
     {
         "Order": "2001076156",
         "Order Line": "00100-0002",
-        "Quantity": "4.000",
+        "Quantity": 4.0,
         "Date": "09-02-2024"
     },
     {
         "Order": "2001076156",
         "Order Line": "00100-0003",
-        "Quantity": "360",
+        "Quantity": 360.0,
         "Date": "16-02-2024"
     },
     {
         "Order": "2001076156",
         "Order Line": "00200-0001",
-        "Quantity": "4.040",
+        "Quantity": 4.04,
         "Date": "24-02-2024"
     },
     {
         "Order": "2001076156",
         "Order Line": "00300-0001",
-        "Quantity": "11.480",
+        "Quantity": 11.48,
         "Date": "02-02-2024"
     },
     {
         "Order": "2001076156",
         "Order Line": "00400-0001",
-        "Quantity": "1.820",
+        "Quantity": 1.82,
         "Date": "02-02-2024"
     },
     {
         "Order": "2001076156",
         "Order Line": "00400-0002",
-        "Quantity": "4.750",
+        "Quantity": 4.75,
         "Date": "09-02-2024"
     },
     {
         "Order": "2001076156",
         "Order Line": "00400-0003",
-        "Quantity": "8.125",
+        "Quantity": 8.125,
         "Date": "16-02-2024"
     },
     {
         "Order": "2001076156",
         "Order Line": "00500-0001",
-        "Quantity": "4.875",
+        "Quantity": 4.875,
         "Date": "09-02-2024"
     },
     {
         "Order": "2001076156",
         "Order Line": "00600-0001",
-        "Quantity": "6.205",
+        "Quantity": 6.205,
         "Date": "29-01-2024"
     },
     {
         "Order": "2001076156",
         "Order Line": "00700-0001",
-        "Quantity": "1.500",
+        "Quantity": 1.5,
         "Date": "29-01-2024"
     },
     {
         "Order": "2001076156",
         "Order Line": "00700-0002",
-        "Quantity": "8.000",
+        "Quantity": 8.0,
         "Date": "02-02-2024"
     },
     {
         "Order": "2001076156",
         "Order Line": "00700-0003",
-        "Quantity": "360",
+        "Quantity": 360.0,
         "Date": "09-02-2024"
     },
     {
         "Order": "2001076156",
         "Order Line": "00800-0001",
-        "Quantity": "4.040",
+        "Quantity": 4.04,
         "Date": "09-02-2024"
     },
     {
         "Order": "2001076156",
         "Order Line": "00900-0001",
-        "Quantity": "11.480",
+        "Quantity": 11.48,
         "Date": "24-02-2024"
     },
     {
         "Order": "2001076156",
         "Order Line": "01000-0001",
-        "Quantity": "13.300",
+        "Quantity": 13.3,
         "Date": "09-02-2024"
     },
     {
         "Order": "2001076156",
         "Order Line": "01000-0002",
-        "Quantity": "1.395",
+        "Quantity": 1.395,
         "Date": "16-02-2024"
     },
     {
         "Order": "2001076156",
         "Order Line": "01100-0001",
-        "Quantity": "4.875",
+        "Quantity": 4.875,
         "Date": "16-02-2024"
     },
     {
         "Order": "2001076156",
         "Order Line": "01200-0001",
-        "Quantity": "6.205",
+        "Quantity": 6.205,
         "Date": "02-02-2024"
     },
     {
         "Order": "2001076156",
         "Order Line": "01300-0001",
-        "Quantity": "140",
+        "Quantity": 140.0,
         "Date": "02-02-2024"
     },
     {
         "Order": "2001076156",
         "Order Line": "01400-0001",
-        "Quantity": "715",
+        "Quantity": 715.0,
         "Date": "09-02-2024"
     },
     {
         "Order": "2001076156",
         "Order Line": "01400-0002",
-        "Quantity": "450",
+        "Quantity": 450.0,
         "Date": "09-02-2024"
     },
     {
         "Order": "2001076156",
         "Order Line": "01500-0001",
-        "Quantity": "60",
+        "Quantity": 60.0,
         "Date": "29-01-2024"
     },
     {
         "Order": "2001076156",
         "Order Line": "01600-0001",
-        "Quantity": "485",
+        "Quantity": 485.0,
         "Date": "02-02-2024"
     },
     {
         "Order": "2001076156",
         "Order Line": "01700-0001",
-        "Quantity": "140",
+        "Quantity": 140.0,
         "Date": "09-02-2024"
     },
     {
         "Order": "2001076156",
         "Order Line": "01800-0001",
-        "Quantity": "715",
+        "Quantity": 715.0,
         "Date": "24-02-2024"
     },
     {
         "Order": "2001076156",
         "Order Line": "01800-0002",
-        "Quantity": "450",
+        "Quantity": 450.0,
         "Date": "28-02-2024"
     },
     {
         "Order": "2001076156",
         "Order Line": "01900-0001",
-        "Quantity": "60",
+        "Quantity": 60.0,
         "Date": "02-02-2024"
     },
     {
         "Order": "2001076156",
         "Order Line": "02000-0001",
-        "Quantity": "485",
+        "Quantity": 485.0,
         "Date": "16-02-2024"
     },
     {
         "Order": "2001076156",
         "Order Line": "02100-0001",
-        "Quantity": "6.405",
+        "Quantity": 6.405,
         "Date": "19-01-2024"
     },
     {
         "Order": "2001076156",
         "Order Line": "02100-0002",
-        "Quantity": "30.000",
+        "Quantity": 30.0,
         "Date": "05-02-2024"
     },
     {
         "Order": "2001076156",
         "Order Line": "02100-0003",
-        "Quantity": "19.450",
+        "Quantity": 19.45,
         "Date": "12-02-2024"
     },
     {
         "Order": "2001076156",
         "Order Line": "02200-0001",
-        "Quantity": "23.595",
+        "Quantity": 23.595,
         "Date": "19-01-2024"
     },
     {
         "Order": "2001076156",
         "Order Line": "02300-0001",
-        "Quantity": "30.000",
+        "Quantity": 30.0,
         "Date": "02-02-2024"
     },
     {
         "Order": "2001076156",
         "Order Line": "02300-0002",
-        "Quantity": "6.405",
+        "Quantity": 6.405,
         "Date": "09-02-2024"
     },
     {
         "Order": "2001076156",
         "Order Line": "02300-0003",
-        "Quantity": "19.450",
+        "Quantity": 19.45,
         "Date": "24-02-2024"
     },
     {
         "Order": "2001076156",
         "Order Line": "02400-0001",
-        "Quantity": "23.595",
+        "Quantity": 23.595,
         "Date": "16-02-2024"
     },
     {
         "Order": "2001077432",
         "Order Line": "00100-0001",
-        "Quantity": "700",
+        "Quantity": 700.0,
         "Date": "14-03-2024"
     },
     {
         "Order": "2001077432",
         "Order Line": "00100-0002",
-        "Quantity": "6.000",
+        "Quantity": 6.0,
         "Date": "21-03-2024"
     },
     {
         "Order": "2001077432",
         "Order Line": "00100-0003",
-        "Quantity": "3.745",
+        "Quantity": 3.745,
         "Date": "28-03-2024"
     },
     {
         "Order": "2001077432",
         "Order Line": "00200-0001",
-        "Quantity": "2.325",
+        "Quantity": 2.325,
         "Date": "23-04-2024"
     },
     {
         "Order": "2001077432",
         "Order Line": "00200-0002",
-        "Quantity": "1.975",
+        "Quantity": 1.975,
         "Date": "26-04-2024"
     },
     {
         "Order": "2001077574",
         "Order Line": "00100-0001",
-        "Quantity": "2.255",
+        "Quantity": 2.255,
         "Date": "28-03-2024"
     },
     {
         "Order": "2001077574",
         "Order Line": "00100-0002",
-        "Quantity": "6.080",
+        "Quantity": 6.08,
         "Date": "04-04-2024"
     },
     {
         "Order": "2001077574",
         "Order Line": "00100-0003",
-        "Quantity": "4.625",
+        "Quantity": 4.625,
         "Date": "08-04-2024"
     },
     {
         "Order": "2001077574",
         "Order Line": "00200-0001",
-        "Quantity": "1.575",
+        "Quantity": 1.575,
         "Date": "08-04-2024"
     },
     {
         "Order": "2001077574",
         "Order Line": "00200-0002",
-        "Quantity": "3.875",
+        "Quantity": 3.875,
         "Date": "23-04-2024"
     },
     {
         "Order": "2001078964",
         "Order Line": "00100-0001",
-        "Quantity": "1.800",
+        "Quantity": 1.8,
         "Date": "26-04-2024"
     },
     {
         "Order": "2001078964",
         "Order Line": "00200-0001",
-        "Quantity": "750",
+        "Quantity": 750.0,
         "Date": "26-04-2024"
     },
     {
         "Order": "2001079276",
         "Order Line": "00100-0001",
-        "Quantity": "1.025",
+        "Quantity": 1.025,
         "Date": "26-04-2024"
     },
     {
         "Order": "2001079276",
         "Order Line": "00200-0001",
-        "Quantity": "650",
+        "Quantity": 650.0,
         "Date": "26-04-2024"
     },
     {
         "Order": "2001079276",
         "Order Line": "00200-0002",
-        "Quantity": "1.420",
+        "Quantity": 1.42,
         "Date": "03-05-2024"
     },
     {
         "Order": "2001079276",
         "Order Line": "00200-0003",
-        "Quantity": "3.445",
+        "Quantity": 3.445,
         "Date": "10-05-2024"
     },
     {
         "Order": "2001079276",
         "Order Line": "00200-0004",
-        "Quantity": "6.200",
+        "Quantity": 6.2,
         "Date": "17-05-2024"
     },
     {
         "Order": "2001079276",
         "Order Line": "00200-0005",
-        "Quantity": "6.200",
+        "Quantity": 6.2,
         "Date": "24-05-2024"
     },
     {
         "Order": "2001079276",
         "Order Line": "00300-0001",
-        "Quantity": "4.780",
+        "Quantity": 4.78,
         "Date": "03-05-2024"
     },
     {
         "Order": "2001079276",
         "Order Line": "00300-0002",
-        "Quantity": "1.280",
+        "Quantity": 1.28,
         "Date": "10-05-2024"
     },
     {
         "Order": "2001079276",
         "Order Line": "00300-0003",
-        "Quantity": "1.475",
+        "Quantity": 1.475,
         "Date": "10-05-2024"
     },
     {
         "Order": "2001082015",
         "Order Line": "00100-0001",
-        "Quantity": "15.372",
+        "Quantity": 15.372,
         "Date": "13-03-2024"
     },
     {
         "Order": "2001083213",
         "Order Line": "00700-0001",
-        "Quantity": "170",
+        "Quantity": 170.0,
         "Date": "08-12-2023"
     },
     {
         "Order": "2001086851",
         "Order Line": "00100-0001",
-        "Quantity": "2.500",
+        "Quantity": 2.5,
         "Date": "08-01-2024"
     },
     {
         "Order": "2001086851",
         "Order Line": "00200-0001",
-        "Quantity": "500",
+        "Quantity": 500.0,
         "Date": "08-01-2024"
     },
     {
         "Order": "2001086851",
         "Order Line": "00300-0001",
-        "Quantity": "2.500",
+        "Quantity": 2.5,
         "Date": "08-01-2024"
     },
     {
         "Order": "2001086851",
         "Order Line": "00400-0001",
-        "Quantity": "100",
+        "Quantity": 100.0,
         "Date": "08-01-2024"
     },
     {
         "Order": "2001086851",
         "Order Line": "00500-0001",
-        "Quantity": "1.800",
+        "Quantity": 1.8,
         "Date": "08-01-2024"
     },
     {
         "Order": "2001086851",
         "Order Line": "00600-0001",
-        "Quantity": "500",
+        "Quantity": 500.0,
         "Date": "08-01-2024"
     }
 ]

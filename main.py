@@ -50,4 +50,6 @@ with open(html_file_path, 'r') as html_file, open(json_file_path,
 print(f"Table data has been successfully written to '{json_file_path}'.")
 import dataClear
 import createxlsx
+import qvalidate
+import dvalidate
 # import inputxl

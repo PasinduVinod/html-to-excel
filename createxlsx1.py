@@ -42,8 +42,8 @@ for row_data in data:
   ws.append(row)
 
 # Lock all cells in the first row
-# for cell in ws[1]:
-  # cell.protection = Protection(locked=True)
+for cell in ws[1]:
+  cell.protection = Protection(locked=True)
 
 last_row = len(data) + 1  # Add 1 to account for the header row
 print("last row: ", last_row)
@@ -51,32 +51,32 @@ print("last row: ", last_row)
 # Unlock cells in column D starting from the second row
 for row in ws.iter_rows(min_row=2, max_row=last_row+1, min_col=4, max_col=4):
   for cell in row:
-    # cell.protection = Protection(locked=False)
+    cell.protection = Protection(locked=False)
     cell.font = Font(color="000000")  # Set font color to black
     cell.fill = PatternFill(start_color="00ff00",
                             end_color="00ff00",
                             fill_type="solid")  # Set background color to green
 
-# # Apply date format to cells in column D starting from the second row
-# number_style = NamedStyle(name='number_style', number_format='0')
-# for cell in ws.iter_rows(min_row=2, max_row=last_row+1, min_col=4, max_col=4):
-#   for cell in row:
-#     cell.style = number_style
+# Apply date format to cells in column D starting from the second row
+number_style = NamedStyle(name='number_style', number_format='0')
+for cell in ws.iter_rows(min_row=2, max_row=last_row+1, min_col=4, max_col=4):
+  for cell in row:
+    cell.style = number_style
 
 # Unlock cells in column F starting from the second row
 for row in ws.iter_rows(min_row=2, max_row=last_row+1, min_col=6, max_col=6):
   for cell in row:
-    # cell.protection = Protection(locked=False)
+    cell.protection = Protection(locked=False)
     cell.font = Font(color="000000")  # Set font color to black
     cell.fill = PatternFill(start_color="00ff00",
                             end_color="00ff00",
                             fill_type="solid")  # Set background color to green
 
 # Apply date format to cells in column F starting from the second row
-# date_style = NamedStyle(name='date_style', number_format='DD-MM-YYYY')
-# for cell in ws.iter_rows(min_row=2, max_row=last_row+1, min_col=6, max_col=6):
-#   for cell in row:
-#     cell.style = date_style
+date_style = NamedStyle(name='date_style', number_format='DD-MM-YYYY')
+for cell in ws.iter_rows(min_row=2, max_row=last_row+1, min_col=6, max_col=6):
+  for cell in row:
+    cell.style = date_style
 
 # Set column width to fit content
 for column in ws.columns:
@@ -95,7 +95,7 @@ for column in ws.columns:
   ws.column_dimensions[column_letter].width = adjusted_width
 
 # Protect the worksheet to enforce read-only for the specified columns
-# ws.protection.sheet = True
+ws.protection.sheet = True
 
 # Save workbook to Excel file
 wb.save('exl.xlsx')
